@@ -4,6 +4,8 @@
 
   ## Description
   A JS application that will generate a README file based on user input. This can be used for any project as a discreet and clean method of creating a basic README at the command line level
+  
+  Video outlining usage can be seen here - https://drive.google.com/file/d/1M2tKNyxrc-rumf52FgbeeWFtRcKKYDf8/view
 
   ## Table of Contents
   - [Installation](#installation)
