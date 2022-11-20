@@ -18,7 +18,9 @@
   Install NodeJS, run npm i on the command line, and run nmp install inquirer on the command line
 
   ## Usage
-  This application is used for creating a basic README file, allowing the user to quickly and easily create a README on the command line. This application uses best practices to create the file and can be altered after creation for more personalized implementations .
+  This application is used for creating a basic README file, allowing the user to quickly and easily create a README on the command line. This application uses best practices to create the file and can be altered after creation for more personalized implementations.
+  
+  Run with 'node index.js' on the cli.
 
   ## Credits
   krbex
